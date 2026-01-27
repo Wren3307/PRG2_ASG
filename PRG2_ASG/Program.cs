@@ -1,6 +1,11 @@
 ﻿using PRG2_ASG;
 using System.Globalization;
 
+//==========================================================
+// Student Number : S10274614
+// Student Name : Cai Renjie
+// Partner Name : Jackie Ang
+//==========================================================
 class Program
 {
     static List<Restaurant> restaurants = new List<Restaurant>();

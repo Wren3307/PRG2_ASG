@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//==========================================================
+// Student Number : S10274614
+// Student Name : Cai Renjie
+// Partner Name : Jackie Ang
+//==========================================================
+
 namespace PRG2_ASG
 {
     class FoodItem

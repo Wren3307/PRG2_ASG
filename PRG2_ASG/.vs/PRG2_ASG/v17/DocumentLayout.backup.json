@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|d:\\user\\documents (d)\\school\\programming\\programming 2\\asg\\prg2_asg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|d:\\user\\documents (d)\\school\\programming\\programming 2\\asg\\prg2_asg\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|d:\\user\\documents (d)\\school\\programming\\programming 2\\asg\\prg2_asg\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|d:\\user\\documents (d)\\school\\programming\\programming 2\\asg\\prg2_asg\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|solutionrelative:fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|d:\\user\\documents (d)\\school\\programming\\programming 2\\asg\\prg2_asg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|d:\\user\\documents (d)\\school\\programming\\programming 2\\asg\\prg2_asg\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|d:\\user\\documents (d)\\school\\programming\\programming 2\\asg\\prg2_asg\\specialoffers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Order.cs",
               "DocumentMoniker": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\Order.cs",
               "RelativeDocumentMoniker": "Order.cs",
@@ -64,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\Customer.cs",
               "RelativeDocumentMoniker": "Customer.cs",
@@ -77,13 +77,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "FoodItem.cs",
               "DocumentMoniker": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\FoodItem.cs",
               "RelativeDocumentMoniker": "FoodItem.cs",
               "ToolTip": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\FoodItem.cs",
               "RelativeToolTip": "FoodItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T09:38:23.655Z",
               "EditorCaption": ""
@@ -103,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAKgAAAAAAAAAAAAowAwAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAowKsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T09:37:33.503Z",
               "EditorCaption": ""
