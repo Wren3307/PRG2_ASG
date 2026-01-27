@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PRG2_ASG/1.0.0": {
+        "runtime": {
+          "PRG2_ASG.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PRG2_ASG/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
