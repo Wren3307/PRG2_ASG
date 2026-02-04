@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|d:\\user\\documents (d)\\school\\programming\\programming 2\\asg\\prg2_asg\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|d:\\user\\documents (d)\\school\\programming\\programming 2\\asg\\prg2_asg\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|solutionrelative:fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|d:\\user\\documents (d)\\school\\programming\\programming 2\\asg\\prg2_asg\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +19,12 @@
       "RelativeMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|d:\\user\\documents (d)\\school\\programming\\programming 2\\asg\\prg2_asg\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|solutionrelative:fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|d:\\user\\documents (d)\\school\\programming\\programming 2\\asg\\prg2_asg\\specialoffers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|solutionrelative:specialoffers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|d:\\user\\documents (d)\\school\\programming\\programming 2\\asg\\prg2_asg\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DE8E9B-4B6A-461C-9A0F-71D6A5F792F0}|PRG2_ASG.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,13 +38,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "SpecialOffers.cs",
               "DocumentMoniker": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\SpecialOffers.cs",
               "RelativeDocumentMoniker": "SpecialOffers.cs",
-              "ToolTip": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\SpecialOffers.cs",
-              "RelativeToolTip": "SpecialOffers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\SpecialOffers.cs*",
+              "RelativeToolTip": "SpecialOffers.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T09:39:59.898Z",
               "EditorCaption": ""
@@ -57,33 +57,33 @@
               "RelativeDocumentMoniker": "Order.cs",
               "ToolTip": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\Order.cs",
               "RelativeToolTip": "Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T09:39:01.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\Customer.cs",
               "RelativeDocumentMoniker": "Customer.cs",
               "ToolTip": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\Customer.cs",
               "RelativeToolTip": "Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T09:38:44.056Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FoodItem.cs",
               "DocumentMoniker": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\FoodItem.cs",
               "RelativeDocumentMoniker": "FoodItem.cs",
               "ToolTip": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\FoodItem.cs",
               "RelativeToolTip": "FoodItem.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAQwAoAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAkAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T09:38:23.655Z",
               "EditorCaption": ""
@@ -109,7 +109,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\User\\Documents (D)\\School\\Programming\\Programming 2\\ASG\\PRG2_ASG\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAIkCAAAAAAAAAAAmwBMDAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAHcDAAAAAAAAAAAmwIADAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-26T09:37:33.503Z",
               "EditorCaption": ""

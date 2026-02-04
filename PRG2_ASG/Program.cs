@@ -81,7 +81,7 @@ class Program
         Console.Write("Enter your choice: ");
     }
 
-    // Feature 1: load restaurants and food items
+    // Feature 1: load restaurants and food items - By Cai Renjie
     static void LoadRestaurants()
     {
         try
@@ -156,7 +156,7 @@ class Program
         }
     }
 
-    // Feature 2: load the customers and orders
+    // Feature 2: load the customers and orders - By Jackie
     static void LoadCustomers()
     {
         try
@@ -308,7 +308,7 @@ class Program
         }
     }
 
-    // Feature 3: list all restaurants and menu items
+    // Feature 3: list all restaurants and menu items - By Jackie
     static void ListAllRestaurantsAndMenuItems()
     {
         Console.WriteLine("\nAll Restaurants and Menu Items");
@@ -321,7 +321,7 @@ class Program
         }
     }
 
-    // Feature 4: list all orders
+    // Feature 4: list all orders - By Renjie
     static void ListAllOrders()
     {
         Console.WriteLine("\nAll Orders");
@@ -342,7 +342,7 @@ class Program
         }
     }
 
-    // Feature 5: create a new order
+    // Feature 5: create a new order - By Jackie
     static void CreateNewOrder()
     {
         Console.WriteLine("\nCreate New Order");
@@ -514,7 +514,7 @@ class Program
         nextOrderId++;
     }
 
-    // Feature 6: process an order
+    // Feature 6: process an order - By Renjie
     static void ProcessOrder()
     {
         Console.WriteLine("\nProcess Order");
@@ -622,7 +622,7 @@ class Program
         }
     }
 
-    // Feature 7: modifying an existing order
+    // Feature 7: modifying an existing order - By Jackie
     static void ModifyOrder()
     {
         Console.WriteLine("\nModify Order");
@@ -799,7 +799,7 @@ class Program
         }
     }
 
-    // Feature 8: delete an existing order
+    // Feature 8: delete an existing order - By Renjie
     static void DeleteOrder()
     {
         Console.WriteLine("\nDelete Order");

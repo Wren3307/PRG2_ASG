@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 //==========================================================
-// Student Number : S10274614
-// Student Name : Cai Renjie
-// Partner Name : Jackie Ang
+// Student Number : S10270210
+// Student Name : Jackie Ang
+// Partner Name : Cai Renjie
 //==========================================================
 
 namespace PRG2_ASG
